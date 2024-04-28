@@ -1,8 +1,5 @@
 # PW-INTERNSHIP-SHOPPING-CART: Shopping Cart
 
-## _Live Preview_
-_**[Click Here To Preview]()**_
-
 ## _Technology Used_
 [![javascript](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=blue)]()
 
@@ -21,10 +18,6 @@ _**[Click Here To Preview HLD](https://drive.google.com/file/d/1-h8TZ6L7UqjI2uPq
 ## _Demo Video_
 _**[Click Here To Preview](https://drive.google.com/file/d/1spYpL5eyUBDpHZKNvIpt6lPLEnVPhY18/view?usp=drive_link)**_
 
-
-
-## _LinkedIn Post_
-_**[Click Here to See]()**_
 
 ![img1](https://github.com/Ayush125v198/Shopping-Cart-PW-INTERNSHIP/assets/145906129/d1c1d7b2-52d0-4cb6-aaed-3f6604590e39)
 
