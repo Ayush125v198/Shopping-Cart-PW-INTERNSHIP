@@ -10,7 +10,7 @@ _**[Click Here To Preview]()**_
 _**[Click Here To Preview]()**_
 
 ## _Architecture_
-_**[Click Here To Preview]()**_
+_**[Click Here To Preview](https://drive.google.com/file/d/1teXUHiflAjMM2hOUrY-I5IpZGjPc2Znz/view?usp=drive_link)**_
 
 ## _Wireframe_
 _**[Click Here To Preview]()**_
